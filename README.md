@@ -4,7 +4,7 @@
 
 <div>
   <p>:earth_americas: I love Ruby on Rails, JavaScript, Node, React, React Native and NextJS </p>  
-  <p>:earth_africa: gabrielpeople20@gmail.com and my Discord: <u>Guard#7480</u></p>
+  <p>:earth_africa: My e-mail: gabrielpeople20@gmail.com and my Discord: <u>Guard#7480</u></p>
   <p>:earth_asia: Check my master repository in https://bitbucket.org/GabrielPessoa001/</p>
 </div>
 
