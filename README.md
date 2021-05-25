@@ -1,6 +1,6 @@
-<h2>:ringed_planet: Hi, I’m Gabriel Pessoa</h2>
+<img align="right" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" width="350"/>
 
- <br>
+<h2>:ringed_planet: Hi, I’m Gabriel Pessoa</h2>
 
 <div>
   <p>:earth_americas: I love Ruby on Rails, JavaScript, Node, React, React Native and NextJS </p>  
@@ -9,8 +9,6 @@
 </div>
 
 <h2></h2>
-
-![image](https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif)
 
 <!---
 GabrielPessoa001/GabrielPessoa001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
