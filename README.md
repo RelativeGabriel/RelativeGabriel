@@ -1,4 +1,4 @@
-<img align="right" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" width="350"/>
+<img align="right" src="https://media1.giphy.com/media/z4Rcio67sPE97UMXme/giphy.gif?cid=790b7611a1422c3ed33e3e52fa5a20c426d6fd51e6f17533&rid=giphy.gif&ct=g" width="200"/>
 
 <h2>:ringed_planet: Hi, I’m Gabriel Pessoa</h2>
 
