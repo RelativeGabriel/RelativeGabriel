@@ -33,4 +33,4 @@ You can click the Preview link to take a look at your changes.
  	<a href="https://www.twitch.tv/Guard_it" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielpeople20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-![Snake animation](https://github.com/rafaballerini/othergabriel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/othergabriel/othergabriel/blob/output/github-contribution-grid-snake.svg)
