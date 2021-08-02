@@ -1,15 +1,9 @@
-<!-- <img align="right" src="https://media1.giphy.com/media/z4Rcio67sPE97UMXme/giphy.gif?cid=790b7611a1422c3ed33e3e52fa5a20c426d6fd51e6f17533&rid=giphy.gif&ct=g" width="200"/> -->
-
 <h2>:ringed_planet: Hi, I’m Gabriel Pessoa</h2>
 <p>:earth_americas: I love Ruby on Rails, JavaScript, Node, React, React Native and NextJS </p>
-
-<!---
-GabrielPessoa001/GabrielPessoa001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- <div style="display: inline-block;">
+ 
+<div display="inline-block">
   <a href="https://github.com/OtherGabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtherGabriel&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtherGabriel&layout=compact&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtherGabriel&layout=compact&langs_count=7&theme=react"/>
 </div>
   
