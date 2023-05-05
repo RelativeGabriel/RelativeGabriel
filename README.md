@@ -2,8 +2,8 @@
 <p>:earth_americas: I love Ruby on Rails, React, Node, React Native and NextJS </p>
  
 <div display="inline-block">
-  <a href="https://github.com/OtherGabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtherGabriel&layout=compact&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/RelativeGabriel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RelativeGabriel&layout=compact&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtherGabriel&layout=compact&langs_count=7&theme=react"/> -->
 </div>
   
