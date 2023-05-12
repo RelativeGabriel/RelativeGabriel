@@ -23,4 +23,3 @@
  	<a href="https://www.twitch.tv/Guard_it" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
    <a href = "https://bitbucket.org/GabrielPessoa001/"><img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank"></a>
  
-![Snake animation](https://github.com/othergabriel/othergabriel/blob/output/github-contribution-grid-snake.svg)
