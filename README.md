@@ -1,5 +1,5 @@
 <h2>:ringed_planet: Hi, I’m Gabriel Pessoa</h2>
-<p>:earth_americas: I love Ruby on Rails, React, Node, React Native and NextJS </p>
+<p>:earth_americas: I love Ruby on Rails, React, React Native and Flutter </p>
   
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
