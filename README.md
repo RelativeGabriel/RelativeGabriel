@@ -1,5 +1,7 @@
 <h2>:ringed_planet: Hi, I’m Gabriel Pessoa</h2>
 
+<!--<p>earth_americas: I love Ruby on Rails, React, React Native and Flutter </p>-->
+
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <!--<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,5 +23,3 @@
   <!--<a href = "https://twitter.com/Guardiith"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>-->
  	<a href="https://www.twitch.tv/Guard_it" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
-
-<!--<p>old description -> :earth_americas: I love Ruby on Rails, React, React Native and Flutter </p>-->
